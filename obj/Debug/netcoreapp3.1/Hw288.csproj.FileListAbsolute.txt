@@ -1,0 +1,13 @@
+C:\Users\Андрей\source\repos\Hw288\Hw288\bin\Debug\netcoreapp3.1\Hw288.exe
+C:\Users\Андрей\source\repos\Hw288\Hw288\bin\Debug\netcoreapp3.1\Hw288.deps.json
+C:\Users\Андрей\source\repos\Hw288\Hw288\bin\Debug\netcoreapp3.1\Hw288.runtimeconfig.json
+C:\Users\Андрей\source\repos\Hw288\Hw288\bin\Debug\netcoreapp3.1\Hw288.runtimeconfig.dev.json
+C:\Users\Андрей\source\repos\Hw288\Hw288\bin\Debug\netcoreapp3.1\Hw288.dll
+C:\Users\Андрей\source\repos\Hw288\Hw288\bin\Debug\netcoreapp3.1\Hw288.pdb
+C:\Users\Андрей\source\repos\Hw288\Hw288\obj\Debug\netcoreapp3.1\Hw288.csprojAssemblyReference.cache
+C:\Users\Андрей\source\repos\Hw288\Hw288\obj\Debug\netcoreapp3.1\Hw288.AssemblyInfoInputs.cache
+C:\Users\Андрей\source\repos\Hw288\Hw288\obj\Debug\netcoreapp3.1\Hw288.AssemblyInfo.cs
+C:\Users\Андрей\source\repos\Hw288\Hw288\obj\Debug\netcoreapp3.1\Hw288.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\Hw288\Hw288\obj\Debug\netcoreapp3.1\Hw288.dll
+C:\Users\Андрей\source\repos\Hw288\Hw288\obj\Debug\netcoreapp3.1\Hw288.pdb
+C:\Users\Андрей\source\repos\Hw288\Hw288\obj\Debug\netcoreapp3.1\Hw288.genruntimeconfig.cache
